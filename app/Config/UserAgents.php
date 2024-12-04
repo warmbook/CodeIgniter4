@@ -79,6 +79,8 @@ class UserAgents extends BaseConfig
      * @var array<string, string>
      */
     public array $browsers = [
+		'MicroMessenger'	=> 'WeChat',
+		'QQ/'				=> 'QQ',
         'OPR'    => 'Opera',
         'Flock'  => 'Flock',
         'Edge'   => 'Spartan',
